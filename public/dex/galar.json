@@ -1,0 +1,4446 @@
+[
+	{
+		"id": 812,
+		"name": "轰擂金刚猩",
+		"types": [
+			"grass"
+		],
+		"forms": [
+			{
+				"name": "轰擂金刚猩",
+				"types": [
+					"grass"
+				]
+			},
+			{
+				"name": "轰擂金刚猩-超极巨化",
+				"types": [
+					"grass"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 815,
+		"name": "闪焰王牌",
+		"types": [
+			"fire"
+		],
+		"forms": [
+			{
+				"name": "闪焰王牌",
+				"types": [
+					"fire"
+				]
+			},
+			{
+				"name": "闪焰王牌-超极巨化",
+				"types": [
+					"fire"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 818,
+		"name": "千面壁役",
+		"types": [
+			"water"
+		],
+		"forms": [
+			{
+				"name": "千面壁役",
+				"types": [
+					"water"
+				]
+			},
+			{
+				"name": "千面壁役-超极巨化",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 826,
+		"name": "以欧路普",
+		"types": [
+			"bug",
+			"psychic"
+		],
+		"forms": [
+			{
+				"name": "以欧路普",
+				"types": [
+					"bug",
+					"psychic"
+				]
+			},
+			{
+				"name": "以欧路普-超极巨化",
+				"types": [
+					"bug",
+					"psychic"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "巴大蝶",
+		"types": [
+			"bug",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "巴大蝶",
+				"types": [
+					"bug",
+					"flying"
+				]
+			},
+			{
+				"name": "巴大蝶-超极巨化",
+				"types": [
+					"bug",
+					"flying"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 738,
+		"name": "锹农炮虫",
+		"types": [
+			"bug",
+			"electric"
+		]
+	},
+	{
+		"id": 164,
+		"name": "猫头夜鹰",
+		"types": [
+			"normal",
+			"flying"
+		]
+	},
+	{
+		"id": 823,
+		"name": "钢铠鸦",
+		"types": [
+			"flying",
+			"steel"
+		],
+		"forms": [
+			{
+				"name": "钢铠鸦",
+				"types": [
+					"flying",
+					"steel"
+				]
+			},
+			{
+				"name": "钢铠鸦-超极巨化",
+				"types": [
+					"flying",
+					"steel"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 521,
+		"name": "高傲雉鸡",
+		"types": [
+			"normal",
+			"flying"
+		]
+	},
+	{
+		"id": 828,
+		"name": "猾大狐",
+		"types": [
+			"dark"
+		]
+	},
+	{
+		"id": 264,
+		"name": "直冲熊",
+		"types": [
+			"normal"
+		],
+		"forms": [
+			{
+				"name": "直冲熊",
+				"types": [
+					"normal"
+				]
+			}
+		]
+	},
+	{
+		"id": 862,
+		"name": "堵拦熊",
+		"types": [
+			"dark",
+			"normal"
+		]
+	},
+	{
+		"id": 832,
+		"name": "毛毛角羊",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 272,
+		"name": "乐天河童",
+		"types": [
+			"water",
+			"grass"
+		]
+	},
+	{
+		"id": 275,
+		"name": "狡猾天狗",
+		"types": [
+			"grass",
+			"dark"
+		]
+	},
+	{
+		"id": 834,
+		"name": "暴噬龟",
+		"types": [
+			"water",
+			"rock"
+		],
+		"forms": [
+			{
+				"name": "暴噬龟",
+				"types": [
+					"water",
+					"rock"
+				]
+			},
+			{
+				"name": "暴噬龟-超极巨化",
+				"types": [
+					"water",
+					"rock"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 510,
+		"name": "酷豹",
+		"types": [
+			"dark"
+		]
+	},
+	{
+		"id": 836,
+		"name": "逐电犬",
+		"types": [
+			"electric"
+		]
+	},
+	{
+		"id": 660,
+		"name": "掘地兔",
+		"types": [
+			"normal",
+			"ground"
+		]
+	},
+	{
+		"id": 573,
+		"name": "奇诺栗鼠",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 763,
+		"name": "甜冷美后",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 45,
+		"name": "霸王花",
+		"types": [
+			"grass",
+			"poison"
+		]
+	},
+	{
+		"id": 182,
+		"name": "美丽花",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 407,
+		"name": "罗斯雷朵",
+		"types": [
+			"grass",
+			"poison"
+		]
+	},
+	{
+		"id": 279,
+		"name": "大嘴鸥",
+		"types": [
+			"water",
+			"flying"
+		]
+	},
+	{
+		"id": 596,
+		"name": "电蜘蛛",
+		"types": [
+			"bug",
+			"electric"
+		]
+	},
+	{
+		"id": 310,
+		"name": "雷电兽",
+		"types": [
+			"electric"
+		]
+	},
+	{
+		"id": 38,
+		"name": "九尾",
+		"types": [
+			"fire"
+		],
+		"forms": [
+			{
+				"name": "九尾",
+				"types": [
+					"fire"
+				]
+			},
+			{
+				"name": "九尾-阿罗拉",
+				"types": [
+					"ice",
+					"fairy"
+				],
+				"spriteSuffix": "阿罗拉"
+			}
+		]
+	},
+	{
+		"id": 59,
+		"name": "风速狗",
+		"types": [
+			"fire"
+		]
+	},
+	{
+		"id": 584,
+		"name": "双倍多多冰",
+		"types": [
+			"ice"
+		]
+	},
+	{
+		"id": 473,
+		"name": "象牙猪",
+		"types": [
+			"ice",
+			"ground"
+		]
+	},
+	{
+		"id": 225,
+		"name": "信使鸟",
+		"isNfe": true,
+		"types": [
+			"ice",
+			"flying"
+		]
+	},
+	{
+		"id": 362,
+		"name": "冰鬼护",
+		"types": [
+			"ice"
+		]
+	},
+	{
+		"id": 478,
+		"name": "雪妖女",
+		"isNfe": true,
+		"types": [
+			"ice",
+			"ghost"
+		]
+	},
+	{
+		"id": 344,
+		"name": "念力土偶",
+		"types": [
+			"ground",
+			"psychic"
+		]
+	},
+	{
+		"id": 750,
+		"name": "重泥挽马",
+		"types": [
+			"ground"
+		]
+	},
+	{
+		"id": 558,
+		"name": "岩殿居蟹",
+		"types": [
+			"bug",
+			"rock"
+		]
+	},
+	{
+		"id": 623,
+		"name": "泥偶巨人",
+		"types": [
+			"ground",
+			"ghost"
+		]
+	},
+	{
+		"id": 518,
+		"name": "梦梦蚀",
+		"types": [
+			"psychic"
+		]
+	},
+	{
+		"id": 178,
+		"name": "天然鸟",
+		"types": [
+			"psychic",
+			"flying"
+		]
+	},
+	{
+		"id": 760,
+		"name": "穿着熊",
+		"types": [
+			"normal",
+			"fighting"
+		]
+	},
+	{
+		"id": 460,
+		"name": "暴雪王",
+		"types": [
+			"grass",
+			"ice"
+		]
+	},
+	{
+		"id": 99,
+		"name": "巨钳蟹",
+		"types": [
+			"water"
+		],
+		"forms": [
+			{
+				"name": "巨钳蟹",
+				"types": [
+					"water"
+				]
+			},
+			{
+				"name": "巨钳蟹-超极巨化",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 195,
+		"name": "沼王",
+		"types": [
+			"water",
+			"ground"
+		]
+	},
+	{
+		"id": 342,
+		"name": "铁螯龙虾",
+		"types": [
+			"water",
+			"dark"
+		]
+	},
+	{
+		"id": 291,
+		"name": "铁面忍者",
+		"types": [
+			"bug",
+			"flying"
+		]
+	},
+	{
+		"id": 292,
+		"name": "脱壳忍者",
+		"types": [
+			"bug",
+			"ghost"
+		]
+	},
+	{
+		"id": 106,
+		"name": "飞腿郎",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 107,
+		"name": "快拳郎",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 237,
+		"name": "战舞郎",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 675,
+		"name": "霸道熊猫",
+		"types": [
+			"fighting",
+			"dark"
+		]
+	},
+	{
+		"id": 601,
+		"name": "齿轮怪",
+		"types": [
+			"steel"
+		]
+	},
+	{
+		"id": 416,
+		"name": "蜂女王",
+		"types": [
+			"bug",
+			"flying"
+		]
+	},
+	{
+		"id": 437,
+		"name": "青铜钟",
+		"types": [
+			"steel",
+			"psychic"
+		]
+	},
+	{
+		"id": 282,
+		"name": "沙奈朵",
+		"types": [
+			"psychic",
+			"fairy"
+		]
+	},
+	{
+		"id": 475,
+		"name": "艾路雷朵",
+		"types": [
+			"psychic",
+			"fighting"
+		]
+	},
+	{
+		"id": 426,
+		"name": "随风球",
+		"types": [
+			"ghost",
+			"flying"
+		]
+	},
+	{
+		"id": 830,
+		"name": "白蓬蓬",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 421,
+		"name": "樱花儿",
+		"types": [
+			"grass"
+		],
+		"forms": [
+			{
+				"name": "樱花儿",
+				"types": [
+					"grass"
+				]
+			},
+			{
+				"name": "樱花儿",
+				"types": [
+					"grass"
+				],
+				"spriteSuffix": "晴天形态"
+			}
+		]
+	},
+	{
+		"id": 435,
+		"name": "坦克臭鼬",
+		"types": [
+			"poison",
+			"dark"
+		]
+	},
+	{
+		"id": 537,
+		"name": "蟾蜍王",
+		"types": [
+			"water",
+			"ground"
+		]
+	},
+	{
+		"id": 356,
+		"name": "彷徨夜灵",
+		"types": [
+			"ghost"
+		]
+	},
+	{
+		"id": 477,
+		"name": "黑夜魔灵",
+		"types": [
+			"ghost"
+		]
+	},
+	{
+		"id": 68,
+		"name": "怪力",
+		"types": [
+			"fighting"
+		],
+		"forms": [
+			{
+				"name": "怪力",
+				"types": [
+					"fighting"
+				]
+			},
+			{
+				"name": "怪力-超极巨化",
+				"types": [
+					"fighting"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 94,
+		"name": "耿鬼",
+		"types": [
+			"ghost",
+			"poison"
+		],
+		"forms": [
+			{
+				"name": "耿鬼",
+				"types": [
+					"ghost",
+					"poison"
+				]
+			},
+			{
+				"name": "耿鬼-超极巨化",
+				"types": [
+					"ghost",
+					"poison"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 130,
+		"name": "暴鲤龙",
+		"types": [
+			"water",
+			"flying"
+		]
+	},
+	{
+		"id": 119,
+		"name": "金鱼王",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 224,
+		"name": "章鱼桶",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 91,
+		"name": "刺甲贝",
+		"types": [
+			"water",
+			"ice"
+		]
+	},
+	{
+		"id": 350,
+		"name": "美纳斯",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 550,
+		"name": "野蛮鲈鱼",
+		"types": [
+			"water"
+		],
+		"forms": [
+			{
+				"name": "野蛮鲈鱼",
+				"types": [
+					"water"
+				]
+			},
+			{
+				"name": "野蛮鲈鱼",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "蓝条纹"
+			}
+		]
+	},
+	{
+		"id": 746,
+		"name": "弱丁鱼",
+		"types": [
+			"water"
+		],
+		"forms": [
+			{
+				"name": "弱丁鱼鱼群",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "鱼群"
+			},
+			{
+				"name": "弱丁鱼",
+				"types": [
+					"water"
+				]
+			}
+		]
+	},
+	{
+		"id": 771,
+		"name": "拳海参",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 569,
+		"name": "灰尘山",
+		"types": [
+			"poison"
+		],
+		"forms": [
+			{
+				"name": "灰尘山",
+				"types": [
+					"poison"
+				]
+			},
+			{
+				"name": "灰尘山-超极巨化",
+				"types": [
+					"poison"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 851,
+		"name": "焚焰蚣",
+		"types": [
+			"fire",
+			"bug"
+		],
+		"forms": [
+			{
+				"name": "焚焰蚣",
+				"types": [
+					"fire",
+					"bug"
+				]
+			},
+			{
+				"name": "焚焰蚣-超极巨化",
+				"types": [
+					"fire",
+					"bug"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 839,
+		"name": "巨炭山",
+		"types": [
+			"rock",
+			"fire"
+		],
+		"forms": [
+			{
+				"name": "巨炭山",
+				"types": [
+					"rock",
+					"fire"
+				]
+			},
+			{
+				"name": "巨炭山-超极巨化",
+				"types": [
+					"rock",
+					"fire"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 51,
+		"name": "三地鼠",
+		"types": [
+			"ground"
+		],
+		"forms": [
+			{
+				"name": "三地鼠",
+				"types": [
+					"ground"
+				]
+			},
+			{
+				"name": "三地鼠-阿罗拉",
+				"types": [
+					"ground",
+					"steel"
+				],
+				"spriteSuffix": "阿罗拉"
+			}
+		]
+	},
+	{
+		"id": 530,
+		"name": "龙头地鼠",
+		"types": [
+			"ground",
+			"steel"
+		]
+	},
+	{
+		"id": 526,
+		"name": "庞岩怪",
+		"types": [
+			"rock"
+		]
+	},
+	{
+		"id": 534,
+		"name": "修建老匠",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 528,
+		"name": "心蝙蝠",
+		"types": [
+			"psychic",
+			"flying"
+		]
+	},
+	{
+		"id": 715,
+		"name": "音波龙",
+		"types": [
+			"flying",
+			"dragon"
+		]
+	},
+	{
+		"id": 208,
+		"name": "大钢蛇",
+		"types": [
+			"steel",
+			"ground"
+		]
+	},
+	{
+		"id": 847,
+		"name": "戽斗尖梭",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 863,
+		"name": "喵头目",
+		"types": [
+			"steel"
+		]
+	},
+	{
+		"id": 53,
+		"name": "猫老大",
+		"types": [
+			"normal"
+		],
+		"forms": [
+			{
+				"name": "猫老大",
+				"types": [
+				"normal"
+				]
+			},
+			{
+				"name": "猫老大-阿罗拉",
+				"types": [
+				"dark"
+				],
+				"spriteSuffix": "阿罗拉" 
+			}
+		]
+	},
+	{
+		"id": 869,
+		"name": "霜奶仙",
+		"types": [
+			"fairy"
+		],
+		"forms": [
+			{
+				"name": "霜奶仙",
+				"types": [
+					"fairy"
+				]
+			},
+			{
+				"name": "霜奶仙-超极巨化",
+				"types": [
+					"fairy"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 743,
+		"name": "蝶结萌虻",
+		"types": [
+			"bug",
+			"fairy"
+		]
+	},
+	{
+		"id": 598,
+		"name": "坚果哑铃",
+		"types": [
+			"grass",
+			"steel"
+		]
+	},
+	{
+		"id": 711,
+		"name": "南瓜怪人",
+		"types": [
+			"ghost",
+			"grass"
+		],
+		"forms": [
+			{
+				"name": "南瓜怪人-大",
+				"types": [
+					"ghost",
+					"grass"
+				],
+				"spriteSuffix": "大"
+			},
+			{
+				"name": "南瓜怪人-普通",
+				"types": [
+					"ghost",
+					"grass"
+				],
+				"spriteSuffix": "普通"
+			},
+			{
+				"name": "南瓜怪人-小",
+				"types": [
+					"ghost",
+					"grass"
+				],
+				"spriteSuffix": "小"
+			},
+			{
+				"name": "南瓜怪人-超大",
+				"types": [
+					"ghost",
+					"grass"
+				],
+				"spriteSuffix": "超大"
+			}
+		]
+	},
+	{
+		"id": 25,
+		"name": "皮卡丘",
+		"types": [
+			"electric"
+		],
+		"forms": [
+			{
+				"name": "皮卡丘",
+				"types": [
+					"electric"
+				]
+			},
+			{
+				"name": "皮卡丘-超极巨化",
+				"types": [
+					"electric"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 26,
+		"name": "雷丘",
+		"types": [
+			"electric"
+		],
+		"forms": [
+			{
+				"name": "雷丘",
+				"types": [
+					"electric"
+				]
+			},
+			{
+				"name": "雷丘-阿罗拉",
+				"types": [
+					"electric",
+					"psychic"
+				],
+				"spriteSuffix": "阿罗拉"
+			}
+		]
+	},
+	{
+		"id": 134,
+		"name": "水伊布",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 135,
+		"name": "雷伊布",
+		"types": [
+			"electric"
+		]
+	},
+	{
+		"id": 136,
+		"name": "火伊布",
+		"types": [
+			"fire"
+		]
+	},
+	{
+		"id": 196,
+		"name": "太阳伊布",
+		"types": [
+			"psychic"
+		]
+	},
+	{
+		"id": 197,
+		"name": "月亮伊布",
+		"types": [
+			"dark"
+		]
+	},
+	{
+		"id": 470,
+		"name": "叶伊布",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 471,
+		"name": "冰伊布",
+		"types": [
+			"ice"
+		]
+	},
+	{
+		"id": 700,
+		"name": "仙子伊布",
+		"types": [
+			"fairy"
+		]
+	},
+	{
+		"id": 841,
+		"name": "苹裹龙",
+		"types": [
+			"grass",
+			"dragon"
+		],
+		"forms": [
+			{
+				"name": "苹裹龙",
+				"types": [
+					"grass",
+					"dragon"
+				]
+			},
+			{
+				"name": "苹裹龙-超极巨化",
+				"types": [
+					"grass",
+					"dragon"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 842,
+		"name": "丰蜜龙",
+		"types": [
+			"grass",
+			"dragon"
+		],
+		"forms": [
+			{
+				"name": "丰蜜龙",
+				"types": [
+					"grass",
+					"dragon"
+				]
+			},
+			{
+				"name": "丰蜜龙-超极巨化",
+				"types": [
+					"grass",
+					"dragon"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 678,
+		"name": "超能妙喵",
+		"types": [
+			"psychic"
+		],
+		"forms": [
+			{
+				"name": "超能妙喵-雄性",
+				"types": [
+					"psychic"
+				]
+			},
+			{
+				"name": "超能妙喵-雌性",
+				"types": [
+					"psychic"
+				],
+				"spriteSuffix": "雌性"
+			}
+		]
+	},
+	{
+		"id": 685,
+		"name": "胖甜妮",
+		"types": [
+			"fairy"
+		]
+	},
+	{
+		"id": 683,
+		"name": "芳香精",
+		"types": [
+			"fairy"
+		]
+	},
+	{
+		"id": 752,
+		"name": "滴蛛霸",
+		"types": [
+			"water",
+			"bug"
+		]
+	},
+	{
+		"id": 202,
+		"name": "果然翁",
+		"types": [
+			"psychic"
+		]
+	},
+	{
+		"id": 83,
+		"name": "大葱鸭",
+		"types": [
+			"normal",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "大葱鸭",
+				"types": [
+					"normal",
+					"flying"
+				]
+			},
+			{
+				"name": "大葱鸭-伽勒尔",
+				"isNfe": true,
+				"types": [
+					"fighting"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		]
+	},
+	{
+		"id": 865,
+		"name": "葱游兵",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 171,
+		"name": "电灯怪",
+		"types": [
+			"water",
+			"electric"
+		]
+	},
+	{
+		"id": 454,
+		"name": "毒骷蛙",
+		"types": [
+			"poison",
+			"fighting"
+		]
+	},
+	{
+		"id": 560,
+		"name": "头巾混混",
+		"types": [
+			"dark",
+			"fighting"
+		]
+	},
+	{
+		"id": 618,
+		"name": "泥巴鱼",
+		"types": [
+			"ground",
+			"electric"
+		],
+		"forms": [
+			{
+				"name": "泥巴鱼",
+				"types": [
+					"ground",
+					"electric"
+				]
+			},
+			{
+				"name": "泥巴鱼-伽勒尔",
+				"types": [
+					"ground",
+					"steel"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		]
+	},
+	{
+		"id": 213,
+		"name": "壶壶",
+		"types": [
+			"bug",
+			"rock"
+		]
+	},
+	{
+		"id": 340,
+		"name": "鲶鱼王",
+		"types": [
+			"water",
+			"ground"
+		]
+	},
+	{
+		"id": 423,
+		"name": "海兔兽",
+		"types": [
+			"water",
+			"ground"
+		],
+		"forms": [
+			{
+				"name": "海兔兽-西海",
+				"types": [
+					"water",
+					"ground"
+				]
+			},
+			{
+				"name": "海兔兽-东海",
+				"types": [
+					"water",
+					"ground"
+				],
+				"spriteSuffix": "东海"
+			}
+		]
+	},
+	{
+		"id": 768,
+		"name": "具甲武者",
+		"types": [
+			"bug",
+			"water"
+		]
+	},
+	{
+		"id": 689,
+		"name": "龟足巨铠",
+		"types": [
+			"rock",
+			"water"
+		]
+	},
+	{
+		"id": 222,
+		"name": "太阳珊瑚",
+		"types": [
+			"water",
+			"rock"
+		],
+		"forms": [
+			{
+				"name": "太阳珊瑚",
+				"types": [
+					"water",
+					"rock"
+				]
+			}
+		]
+	},
+	{
+		"id": 864,
+		"name": "魔灵珊瑚",
+		"types": [
+			"ghost"
+		]
+	},
+	{
+		"id": 861,
+		"name": "长毛巨魔",
+		"types": [
+			"dark",
+			"fairy"
+		],
+		"forms": [
+			{
+				"name": "长毛巨魔",
+				"types": [
+					"dark",
+					"fairy"
+				]
+			},
+			{
+				"name": "长毛巨魔-超极巨化",
+				"types": [
+					"dark",
+					"fairy"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 858,
+		"name": "布莉姆温",
+		"types": [
+			"psychic",
+			"fairy"
+		],
+		"forms": [
+			{
+				"name": "布莉姆温",
+				"types": [
+					"psychic",
+					"fairy"
+				]
+			},
+			{
+				"name": "布莉姆温-超极巨化",
+				"types": [
+					"psychic",
+					"fairy"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 758,
+		"name": "焰后蜥",
+		"types": [
+			"poison",
+			"fire"
+		]
+	},
+	{
+		"id": 625,
+		"name": "劈斩司令",
+		"types": [
+			"dark",
+			"steel"
+		]
+	},
+	{
+		"id": 538,
+		"name": "投摔鬼",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 539,
+		"name": "打击鬼",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 110,
+		"name": "双弹瓦斯",
+		"types": [
+			"poison"
+		],
+		"forms": [
+			{
+				"name": "双弹瓦斯",
+				"types": [
+					"poison"
+				]
+			},
+			{
+				"name": "双弹瓦斯-伽勒尔",
+				"types": [
+					"poison",
+					"fairy"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		]
+	},
+	{
+		"id": 185,
+		"name": "树才怪",
+		"types": [
+			"rock"
+		]
+	},
+	{
+		"id": 113,
+		"name": "吉利蛋",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 35,
+		"name": "皮皮",
+		"types": [
+			"fairy"
+		]
+	},
+	{
+		"id": 36,
+		"name": "皮可西",
+		"types": [
+			"fairy"
+		]
+	},
+	{
+		"id": 468,
+		"name": "波克基斯",
+		"types": [
+			"fairy",
+			"flying"
+		]
+	},
+	{
+		"id": 143,
+		"name": "卡比兽",
+		"types": [
+			"normal"
+		],
+		"forms": [
+			{
+				"name": "卡比兽",
+				"types": [
+					"normal"
+				]
+			},
+			{
+				"name": "卡比兽-超极巨化",
+				"types": [
+					"normal"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 547,
+		"name": "风妖精",
+		"types": [
+			"grass",
+			"fairy"
+		]
+	},
+	{
+		"id": 464,
+		"name": "超甲狂犀",
+		"types": [
+			"ground",
+			"rock"
+		]
+	},
+	{
+		"id": 576,
+		"name": "哥德小姐",
+		"types": [
+			"psychic"
+		]
+	},
+	{
+		"id": 579,
+		"name": "人造细胞卵",
+		"types": [
+			"psychic"
+		]
+	},
+	{
+		"id": 589,
+		"name": "骑士蜗牛",
+		"types": [
+			"bug",
+			"steel"
+		]
+	},
+	{
+		"id": 617,
+		"name": "敏捷虫",
+		"types": [
+			"bug"
+		]
+	},
+	{
+		"id": 606,
+		"name": "大宇怪",
+		"types": [
+			"psychic"
+		]
+	},
+	{
+		"id": 614,
+		"name": "冻原熊",
+		"types": [
+			"ice"
+		]
+	},
+	{
+		"id": 628,
+		"name": "勇士雄鹰",
+		"types": [
+			"normal",
+			"flying"
+		]
+	},
+	{
+		"id": 630,
+		"name": "秃鹰娜",
+		"types": [
+			"dark",
+			"flying"
+		]
+	},
+	{
+		"id": 452,
+		"name": "龙王蝎",
+		"types": [
+			"poison",
+			"dark"
+		]
+	},
+	{
+		"id": 609,
+		"name": "水晶灯火灵",
+		"types": [
+			"ghost",
+			"fire"
+		]
+	},
+	{
+		"id": 687,
+		"name": "乌贼王",
+		"types": [
+			"dark",
+			"psychic"
+		]
+	},
+	{
+		"id": 461,
+		"name": "玛狃拉",
+		"types": [
+			"dark",
+			"ice"
+		]
+	},
+	{
+		"id": 302,
+		"name": "勾魂眼",
+		"types": [
+			"dark",
+			"ghost"
+		]
+	},
+	{
+		"id": 303,
+		"name": "大嘴娃",
+		"types": [
+			"steel",
+			"fairy"
+		]
+	},
+	{
+		"id": 556,
+		"name": "沙铃仙人掌",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 561,
+		"name": "象征鸟",
+		"types": [
+			"psychic",
+			"flying"
+		]
+	},
+	{
+		"id": 448,
+		"name": "路卡利欧",
+		"types": [
+			"fighting",
+			"steel"
+		]
+	},
+	{
+		"id": 778,
+		"name": "迷拟丘",
+		"types": [
+			"ghost",
+			"fairy"
+		]
+	},
+	{
+		"id": 879,
+		"name": "大王铜象",
+		"types": [
+			"steel"
+		],
+		"forms": [
+			{
+				"name": "大王铜象",
+				"types": [
+					"steel"
+				]
+			},
+			{
+				"name": "大王铜象-超极巨化",
+				"types": [
+					"steel"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 211,
+		"name": "千针鱼",
+		"types": [
+			"water",
+			"poison"
+		]
+	},
+	{
+		"id": 593,
+		"name": "胖嘟嘟",
+		"types": [
+			"water",
+			"ghost"
+		],
+		"forms": [
+			{
+				"name": "胖嘟嘟",
+				"types": [
+					"water",
+					"ghost"
+				],
+				"spriteSuffix": "雌性"
+			},
+			{
+				"name": "胖嘟嘟",
+				"types": [
+					"water",
+					"ghost"
+				]
+			}
+		]
+	},
+	{
+		"id": 748,
+		"name": "超坏星",
+		"types": [
+			"poison",
+			"water"
+		]
+	},
+	{
+		"id": 845,
+		"name": "古月鸟",
+		"types": [
+			"flying",
+			"water"
+		]
+	},
+	{
+		"id": 849,
+		"name": "颤弦蝾螈",
+		"types": [
+			"electric",
+			"poison"
+		],
+		"forms": [
+			{
+				"name": "颤弦蝾螈",
+				"types": [
+					"electric",
+					"poison"
+				]
+			},
+			{
+				"name": "颤弦蝾螈",
+				"types": [
+					"electric",
+					"poison"
+				],
+				"spriteSuffix": "低音"
+			},
+			{
+				"name": "颤弦蝾螈-超极巨化",
+				"types": [
+					"electric",
+					"poison"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 844,
+		"name": "沙螺蟒",
+		"types": [
+			"ground"
+		],
+		"forms": [
+			{
+				"name": "沙螺蟒",
+				"types": [
+					"ground"
+				]
+			},
+			{
+				"name": "沙螺蟒-超极巨化",
+				"types": [
+					"ground"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 450,
+		"name": "河马兽",
+		"types": [
+			"ground"
+		],
+		"forms": [
+			{
+				"name": "河马兽",
+				"types": [
+					"ground"
+				]
+			},
+			{
+				"name": "河马兽",
+				"types": [
+					"ground"
+				],
+				"spriteSuffix": "雌性"
+			}
+		]
+	},
+	{
+		"id": 632,
+		"name": "铁蚁",
+		"types": [
+			"bug",
+			"steel"
+		]
+	},
+	{
+		"id": 631,
+		"name": "熔蚁兽",
+		"types": [
+			"fire"
+		]
+	},
+	{
+		"id": 695,
+		"name": "光电伞蜥",
+		"types": [
+			"electric",
+			"normal"
+		]
+	},
+	{
+		"id": 701,
+		"name": "摔角鹰人",
+		"types": [
+			"fighting",
+			"flying"
+		]
+	},
+	{
+		"id": 330,
+		"name": "沙漠蜻蜓",
+		"types": [
+			"ground",
+			"dragon"
+		]
+	},
+	{
+		"id": 612,
+		"name": "双斧战龙",
+		"types": [
+			"dragon"
+		]
+	},
+	{
+		"id": 867,
+		"name": "迭失板",
+		"types": [
+			"ground",
+			"ghost"
+		]
+	},
+	{
+		"id": 563,
+		"name": "迭失棺",
+		"types": [
+			"ghost"
+		]
+	},
+	{
+		"id": 681,
+		"name": "坚盾剑怪",
+		"types": [
+			"steel",
+			"ghost"
+		],
+		"forms": [
+			{
+				"name": "坚盾剑怪",
+				"types": [
+					"steel",
+					"ghost"
+				]
+			},
+			{
+				"name": "坚盾剑怪",
+				"types": [
+					"steel",
+					"ghost"
+				],
+				"spriteSuffix": "刀剑形态"
+			}
+		]
+	},
+	{
+		"id": 78,
+		"name": "烈焰马",
+		"types": [
+			"fire"
+		],
+		"forms": [
+			{
+				"name": "烈焰马",
+				"types": [
+					"fire"
+				]
+			},
+			{
+				"name": "烈焰马-伽勒尔",
+				"types": [
+					"psychic",
+					"fairy"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		]
+	},
+	{
+		"id": 855,
+		"name": "怖思壶",
+		"types": [
+			"ghost"
+		]
+	},
+	{
+		"id": 876,
+		"name": "爱管侍",
+		"types": [
+			"psychic",
+			"normal"
+		],
+		"forms": [
+			{
+				"name": "爱管侍-雄性",
+				"types": [
+					"psychic",
+					"normal"
+				]
+			},
+			{
+				"name": "爱管侍-雌性",
+				"types": [
+					"psychic",
+					"normal"
+				],
+				"spriteSuffix": "雌性"
+			}
+		]
+	},
+	{
+		"id": 709,
+		"name": "朽木妖",
+		"types": [
+			"ghost",
+			"grass"
+		]
+	},
+	{
+		"id": 756,
+		"name": "灯罩夜菇",
+		"types": [
+			"grass",
+			"fairy"
+		]
+	},
+	{
+		"id": 765,
+		"name": "智挥猩",
+		"types": [
+			"normal",
+			"psychic"
+		]
+	},
+	{
+		"id": 766,
+		"name": "投掷猴",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 877,
+		"name": "莫鲁贝可",
+		"types": [
+			"electric",
+			"dark"
+		]
+	},
+	{
+		"id": 870,
+		"name": "列阵兵",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 780,
+		"name": "老翁龙",
+		"types": [
+			"normal",
+			"dragon"
+		]
+	},
+	{
+		"id": 776,
+		"name": "爆焰龟兽",
+		"types": [
+			"fire",
+			"dragon"
+		]
+	},
+	{
+		"id": 777,
+		"name": "托戈德玛尔",
+		"types": [
+			"electric",
+			"steel"
+		]
+	},
+	{
+		"id": 873,
+		"name": "雪绒蛾",
+		"types": [
+			"ice",
+			"bug"
+		]
+	},
+	{
+		"id": 853,
+		"name": "八爪武师",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 871,
+		"name": "啪嚓海胆",
+		"types": [
+			"electric"
+		]
+	},
+	{
+		"id": 226,
+		"name": "巨翅飞鱼",
+		"types": [
+			"water",
+			"flying"
+		]
+	},
+	{
+		"id": 321,
+		"name": "吼鲸王",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 713,
+		"name": "冰岩怪",
+		"types": [
+			"ice"
+		]
+	},
+	{
+		"id": 781,
+		"name": "破破舵轮",
+		"types": [
+			"ghost",
+			"grass"
+		]
+	},
+	{
+		"id": 131,
+		"name": "拉普拉斯",
+		"types": [
+			"water",
+			"ice"
+		],
+		"forms": [
+			{
+				"name": "拉普拉斯",
+				"types": [
+					"water",
+					"ice"
+				]
+			},
+			{
+				"name": "拉普拉斯-超极巨化",
+				"types": [
+					"water",
+					"ice"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 337,
+		"name": "月石",
+		"types": [
+			"rock",
+			"psychic"
+		]
+	},
+	{
+		"id": 338,
+		"name": "太阳岩",
+		"types": [
+			"rock",
+			"psychic"
+		]
+	},
+	{
+		"id": 122,
+		"name": "魔墙人偶",
+		"types": [
+			"psychic",
+			"fairy"
+		]
+	},
+	{
+		"id": 866,
+		"name": "踏冰人偶",
+		"types": [
+			"psychic",
+			"ice"
+		]
+	},
+	{
+		"id": 555,
+		"name": "达摩狒狒",
+		"types": [
+			"fire"
+		],
+		"forms": [
+			{
+				"name": "达摩狒狒",
+				"types": [
+					"fire"
+				]
+			},
+			{
+				"name": "达摩狒狒-伽勒尔",
+				"types": [
+					"ice"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		]
+	},
+	{
+		"id": 874,
+		"name": "巨石丁",
+		"types": [
+			"rock"
+		]
+	},
+	{
+		"id": 875,
+		"name": "冰砌鹅",
+		"types": [
+			"ice"
+		],
+		"forms": [
+			{
+				"name": "冰砌鹅",
+				"types": [
+					"ice"
+				]
+			},
+			{
+				"name": "冰砌鹅",
+				"types": [
+					"ice"
+				],
+				"spriteSuffix": "解冻头"
+			}
+		]
+	},
+	{
+		"id": 884,
+		"name": "铝钢龙",
+		"types": [
+			"steel",
+			"dragon"
+		],
+		"forms": [
+			{
+				"name": "铝钢龙",
+				"types": [
+					"steel",
+					"dragon"
+				]
+			},
+			{
+				"name": "铝钢龙-超极巨化",
+				"types": [
+					"steel",
+					"dragon"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 479,
+		"name": "洛托姆",
+		"types": [
+			"electric",
+			"ghost"
+		],
+		"forms": [
+			{
+				"name": "洛托姆",
+				"types": [
+					"electric",
+					"ghost"
+				]
+			},
+			{
+				"name": "洛托姆-旋转",
+				"types": [
+					"electric",
+					"flying"
+				],
+				"spriteSuffix": "旋转"
+			},
+			{
+				"name": "洛托姆-结冰",
+				"types": [
+					"electric",
+					"ice"
+				],
+				"spriteSuffix": "结冰"
+			},
+			{
+				"name": "洛托姆-加热",
+				"types": [
+					"electric",
+					"fire"
+				],
+				"spriteSuffix": "加热"
+			},
+			{
+				"name": "洛托姆-切割",
+				"types": [
+					"electric",
+					"grass"
+				],
+				"spriteSuffix": "切割"
+			},
+			{
+				"name": "洛托姆-清洗",
+				"types": [
+					"electric",
+					"water"
+				],
+				"spriteSuffix": "清洗"
+			}
+		]
+	},
+	{
+		"id": 132,
+		"name": "百变怪",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 880,
+		"name": "雷鸟龙",
+		"types": [
+			"electric",
+			"dragon"
+		]
+	},
+	{
+		"id": 881,
+		"name": "雷鸟海兽",
+		"types": [
+			"electric",
+			"ice"
+		]
+	},
+	{
+		"id": 882,
+		"name": "鳃鱼龙",
+		"types": [
+			"water",
+			"dragon"
+		]
+	},
+	{
+		"id": 883,
+		"name": "鳃鱼海兽",
+		"types": [
+			"water",
+			"ice"
+		]
+	},
+	{
+		"id": 6,
+		"name": "喷火龙",
+		"types": [
+			"fire",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "喷火龙",
+				"types": [
+					"fire",
+					"flying"
+				]
+			},
+			{
+				"name": "喷火龙-超极巨化",
+				"types": [
+					"fire",
+					"flying"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 773,
+		"name": "银伴战兽",
+		"types": [
+			"normal"
+		],
+		"forms": [
+			{
+				"name": "银伴战兽",
+				"types": [
+					"bug"
+				],
+				"spriteSuffix": "虫"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"dark"
+				],
+				"spriteSuffix": "恶"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"dragon"
+				],
+				"spriteSuffix": "龙"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"electric"
+				],
+				"spriteSuffix": "电"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"fairy"
+				],
+				"spriteSuffix": "妖精"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"fighting"
+				],
+				"spriteSuffix": "格斗"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"fire"
+				],
+				"spriteSuffix": "火"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"flying"
+				],
+				"spriteSuffix": "飞行"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"ghost"
+				],
+				"spriteSuffix": "幽灵"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"grass"
+				],
+				"spriteSuffix": "草"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"ground"
+				],
+				"spriteSuffix": "地面"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"ice"
+				],
+				"spriteSuffix": "冰"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"normal"
+				]
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"poison"
+				],
+				"spriteSuffix": "毒"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"psychic"
+				],
+				"spriteSuffix": "超能力"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"rock"
+				],
+				"spriteSuffix": "岩石"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"steel"
+				],
+				"spriteSuffix": "钢"
+			},
+			{
+				"name": "银伴战兽",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "水"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 248,
+		"name": "班基拉斯",
+		"types": [
+			"rock",
+			"dark"
+		]
+	},
+	{
+		"id": 635,
+		"name": "三首恶龙",
+		"types": [
+			"dark",
+			"dragon"
+		]
+	},
+	{
+		"id": 706,
+		"name": "黏美龙",
+		"types": [
+			"dragon"
+		]
+	},
+	{
+		"id": 784,
+		"name": "杖尾鳞甲龙",
+		"types": [
+			"dragon",
+			"fighting"
+		]
+	},
+	{
+		"id": 887,
+		"name": "多龙巴鲁托",
+		"types": [
+			"dragon",
+			"ghost"
+		]
+	},
+	{
+		"id": 888,
+		"name": "苍响",
+		"types": [
+			"fairy"
+		],
+		"forms": [
+			{
+				"name": "苍响",
+				"types": [
+					"fairy"
+				]
+			},
+			{
+				"name": "苍响-剑之王",
+				"types": [
+					"fairy",
+					"steel"
+				],
+				"spriteSuffix": "剑之王"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 889,
+		"name": "藏马然特",
+		"types": [
+			"fighting"
+		],
+		"forms": [
+			{
+				"name": "藏马然特",
+				"types": [
+					"fighting"
+				]
+			},
+			{
+				"name": "藏马然特-盾之王",
+				"types": [
+					"fighting",
+					"steel"
+				],
+				"spriteSuffix": "盾之王"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 890,
+		"name": "无极汰那",
+		"types": [
+			"poison",
+			"dragon"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 892,
+		"name": "武道熊师",
+		"types": [
+			"fighting",
+			"dark"
+		],
+		"forms": [
+			{
+				"name": "武道熊师-一击流",
+				"types": [
+					"fighting",
+					"dark"
+				]
+			},
+			{
+				"name": "武道熊师-连击流",
+				"types": [
+					"fighting",
+					"water"
+				],
+				"spriteSuffix": "连击流"
+			},
+			{
+				"name": "武道熊师-一击流-超极巨化",
+				"types": [
+					"fighting",
+					"dark"
+				],
+				"spriteSuffix": "一击流-超极巨化",
+				"isGigantamax": true
+			},
+			{
+				"name": "武道熊师-连击流-超极巨化",
+				"types": [
+					"fighting",
+					"water"
+				],
+				"spriteSuffix": "连击流-超极巨化",
+				"isGigantamax": true
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 893,
+		"name": "萨戮德",
+		"types": [
+			"dark",
+			"grass"
+		],
+		"forms": [
+			{
+				"name": "萨戮德",
+				"types": [
+					"dark",
+					"grass"
+				]
+			},
+			{
+				"name": "萨戮德-阿爸",
+				"types": [
+					"dark",
+					"grass"
+				],
+				"spriteSuffix": "阿爸"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 894,
+		"name": "雷吉艾勒奇",
+		"types": [
+			"electric"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 895,
+		"name": "雷吉铎拉戈",
+		"types": [
+			"dragon"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 896,
+		"name": "雪暴马",
+		"types": [
+			"ice"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 897,
+		"name": "灵幽马",
+		"types": [
+			"ghost"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 898,
+		"name": "蕾冠王",
+		"types": [
+			"psychic",
+			"grass"
+		],
+		"forms": [
+			{
+				"name": "蕾冠王",
+				"types": [
+					"psychic",
+					"grass"
+				]
+			},
+			{
+				"name": "蕾冠王-白马",
+				"types": [
+					"psychic",
+					"ice"
+				],
+				"spriteSuffix": "白马"
+			},
+			{
+				"name": "蕾冠王-黑马",
+				"types": [
+					"psychic",
+					"shadow"
+				],
+				"spriteSuffix": "黑马"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 80,
+		"name": "呆壳兽",
+		"types": [
+			"water",
+			"psychic"
+		],
+		"forms": [
+			{
+				"name": "呆壳兽",
+				"types": [
+				"water",
+				"psychic"
+			]
+			},
+			{
+				"name": "呆壳兽-伽勒尔",
+				"types": [
+					"poison",
+					"psychic"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		]
+	},
+	{
+		"id": 199,
+		"name": "呆呆王",
+		"types": [
+			"water",
+			"psychic"
+		],
+		"forms": [
+			{
+				"name": "呆呆王",
+				"types": [
+				"water",
+				"psychic"
+			]
+			},
+			{
+				"name": "呆呆王-伽勒尔",
+				"types": [
+					"poison",
+					"psychic"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		]
+	},
+	{
+		"id": 144,
+		"name": "急冻鸟",
+		"types": [
+			"ice",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "急冻鸟",
+				"types": [
+				"ice",
+				"flying"
+			]
+			},
+			{
+				"name": "急冻鸟-伽勒尔",
+				"types": [
+					"psychic",
+					"flying"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 145,
+		"name": "闪电鸟",
+		"types": [
+			"electric",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "闪电鸟",
+				"types": [
+				"electric",
+				"flying"
+			]
+			},
+			{
+				"name": "闪电鸟-伽勒尔",
+				"types": [
+					"fighting",
+					"flying"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 146,
+		"name": "火焰鸟",
+		"types": [
+			"fire",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "火焰鸟",
+				"types": [
+				"fire",
+				"flying"
+			]
+			},
+			{
+				"name": "火焰鸟-伽勒尔",
+				"types": [
+					"dark",
+					"flying"
+				],
+				"spriteSuffix": "伽勒尔"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 428,
+		"name": "长耳兔",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 242,
+		"name": "幸福蛋",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 40,
+		"name": "胖可丁",
+		"types": [
+			"normal",
+			"fairy"
+		]
+	},
+	{
+		"id": 754,
+		"name": "兰螳花",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 663,
+		"name": "烈箭鹰",
+		"types": [
+			"fire",
+			"flying"
+		]
+	},
+	{
+		"id": 405,
+		"name": "伦琴猫",
+		"types": [
+			"electric"
+		]
+	},
+	{
+		"id": 707,
+		"name": "钥圈儿",
+		"types": [
+			"steel",
+			"fairy"
+		]
+	},
+	{
+		"id": 65,
+		"name": "胡地",
+		"types": [
+			"psychic"
+		]
+	},
+	{
+		"id": 73,
+		"name": "毒刺水母",
+		"types": [
+			"water",
+			"poison"
+		]
+	},
+	{
+		"id": 206,
+		"name": "土龙弟弟",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 626,
+		"name": "爆炸头水牛",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 463,
+		"name": "大舌舔",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 621,
+		"name": "赤面龙",
+		"types": [
+			"dragon"
+		]
+	},
+	{
+		"id": 3,
+		"name": "妙蛙花",
+		"types": [
+			"grass",
+			"poison"
+		],
+		"forms": [
+			{
+				"name": "妙蛙花",
+				"types": [
+					"grass",
+					"poison"
+				]
+			},
+			{
+				"name": "妙蛙花-超极巨化",
+				"types": [
+					"grass",
+					"poison"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "水箭龟",
+		"types": [
+			"water"
+		],
+		"forms": [
+			{
+				"name": "水箭龟",
+				"types": [
+					"water"
+				]
+			},
+			{
+				"name": "水箭龟-超极巨化",
+				"types": [
+					"water"
+				],
+				"spriteSuffix": "超极巨化",
+				"isGigantamax": true
+			}
+		]
+	},
+	{
+		"id": 545,
+		"name": "蜈蚣王",
+		"types": [
+			"bug",
+			"poison"
+		]
+	},
+	{
+		"id": 591,
+		"name": "败露球菇",
+		"types": [
+			"grass",
+			"poison"
+		]
+	},
+	{
+		"id": 764,
+		"name": "花疗环环",
+		"types": [
+			"fairy"
+		]
+	},
+	{
+		"id": 465,
+		"name": "巨蔓藤",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 571,
+		"name": "索罗亚克",
+		"types": [
+			"dark"
+		]
+	},
+	{
+		"id": 121,
+		"name": "宝石海星",
+		"types": [
+			"water",
+			"psychic"
+		]
+	},
+	{
+		"id": 587,
+		"name": "电飞鼠",
+		"types": [
+			"electric",
+			"flying"
+		]
+	},
+	{
+		"id": 702,
+		"name": "咚咚鼠",
+		"types": [
+			"electric",
+			"fairy"
+		]
+	},
+	{
+		"id": 462,
+		"name": "自爆磁怪",
+		"types": [
+			"electric",
+			"steel"
+		]
+	},
+	{
+		"id": 319,
+		"name": "巨牙鲨",
+		"types": [
+			"water",
+			"dark"
+		]
+	},
+	{
+		"id": 508,
+		"name": "长毛狗",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 128,
+		"name": "肯泰罗",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 241,
+		"name": "大奶罐",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 212,
+		"name": "巨钳螳螂",
+		"types": [
+			"bug",
+			"steel"
+		]
+	},
+	{
+		"id": 127,
+		"name": "凯罗斯",
+		"types": [
+			"bug"
+		]
+	},
+	{
+		"id": 214,
+		"name": "赫拉克罗斯",
+		"types": [
+			"bug",
+			"fighting"
+		]
+	},
+	{
+		"id": 770,
+		"name": "噬沙堡爷",
+		"types": [
+			"ghost",
+			"ground"
+		]
+	},
+	{
+		"id": 184,
+		"name": "玛力露丽",
+		"types": [
+			"water",
+			"fairy"
+		]
+	},
+	{
+		"id": 62,
+		"name": "蚊香泳士",
+		"types": [
+			"water",
+			"fighting"
+		]
+	},
+	{
+		"id": 186,
+		"name": "蚊香蛙皇",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 55,
+		"name": "哥达鸭",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 295,
+		"name": "爆音怪",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 227,
+		"name": "盔甲鸟",
+		"types": [
+			"steel",
+			"flying"
+		]
+	},
+	{
+		"id": 745,
+		"name": "鬃岩狼人",
+		"types": [
+			"rock"
+		],
+		"forms": [
+			{
+				"name": "鬃岩狼人-黄昏",
+				"types": [
+					"rock"
+				],
+				"spriteSuffix": "黄昏"
+			},
+			{
+				"name": "鬃岩狼人-白昼",
+				"types": [
+					"rock"
+				]
+			},
+			{
+				"name": "鬃岩狼人-黑夜",
+				"types": [
+					"rock"
+				],
+				"spriteSuffix": "黑夜"
+			}
+		]
+	},
+	{
+		"id": 620,
+		"name": "师父鼬",
+		"types": [
+			"fighting"
+		]
+	},
+	{
+		"id": 28,
+		"name": "穿山王",
+		"types": [
+			"ground"
+		],
+		"forms": [
+			{
+				"name": "穿山王",
+				"types": [
+					"ground"
+				]
+			},
+			{
+				"name": "穿山王-阿罗拉",
+				"types": [
+					"ice",
+					"steel"
+				],
+				"spriteSuffix": "阿罗拉"
+			}
+		]
+	},
+	{
+		"id": 105,
+		"name": "嘎啦嘎啦",
+		"types": [
+			"ground"
+		],
+		"forms": [
+			{
+				"name": "嘎啦嘎啦",
+				"types": [
+					"ground"
+				]
+			},
+			{
+				"name": "嘎啦嘎啦-阿罗拉",
+				"types": [
+					"fire",
+					"ghost"
+				],
+				"spriteSuffix": "阿罗拉"
+			}
+		]
+	},
+	{
+		"id": 115,
+		"name": "袋兽",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 553,
+		"name": "流氓鳄",
+		"types": [
+			"ground",
+			"dark"
+		]
+	},
+	{
+		"id": 637,
+		"name": "火神蛾",
+		"types": [
+			"bug",
+			"fire"
+		]
+	},
+	{
+		"id": 691,
+		"name": "毒藻龙",
+		"types": [
+			"poison",
+			"dragon"
+		]
+	},
+	{
+		"id": 693,
+		"name": "钢炮臂虾",
+		"types": [
+			"water"
+		]
+	},
+	{
+		"id": 230,
+		"name": "刺龙王",
+		"types": [
+			"water",
+			"dragon"
+		]
+	},
+	{
+		"id": 549,
+		"name": "裙儿小姐",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 103,
+		"name": "椰蛋树",
+		"types": [
+			"grass",
+			"psychic"
+		],
+		"forms": [
+			{
+				"name": "椰蛋树",
+				"types": [
+					"grass",
+					"psychic"
+				]
+			},
+			{
+				"name": "椰蛋树-阿罗拉",
+				"types": [
+					"grass",
+					"dragon"
+				],
+				"spriteSuffix": "阿罗拉"
+			}
+		]
+	},
+	{
+		"id": 233,
+		"name": "多边兽2型",
+		"isNfe": false,
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 474,
+		"name": "多边兽乙型",
+		"isNfe": false,
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 31,
+		"name": "尼多后",
+		"types": [
+			"poison",
+			"ground"
+		]
+	},
+	{
+		"id": 34,
+		"name": "尼多王",
+		"types": [
+			"poison",
+			"ground"
+		]
+	},
+	{
+		"id": 149,
+		"name": "快龙",
+		"types": [
+			"dragon",
+			"flying"
+		]
+	},
+	{
+		"id": 169,
+		"name": "叉字蝠",
+		"types": [
+			"poison",
+			"flying"
+		]
+	},
+	{
+		"id": 306,
+		"name": "波士可多拉",
+		"types": [
+			"steel",
+			"rock"
+		]
+	},
+	{
+		"id": 334,
+		"name": "七夕青鸟",
+		"types": [
+			"dragon",
+			"flying"
+		]
+	},
+	{
+		"id": 346,
+		"name": "摇篮百合",
+		"types": [
+			"rock",
+			"grass"
+		]
+	},
+	{
+		"id": 359,
+		"name": "阿勃梭鲁",
+		"types": [
+			"dark"
+		]
+	},
+	{
+		"id": 365,
+		"name": "帝牙海狮",
+		"types": [
+			"ice",
+			"water"
+		]
+	},
+	{
+		"id": 369,
+		"name": "古空棘鱼",
+		"types": [
+			"water",
+			"rock"
+		]
+	},
+	{
+		"id": 376,
+		"name": "巨金怪",
+		"types": [
+			"steel",
+			"psychic"
+		]
+	},
+	{
+		"id": 445,
+		"name": "烈咬陆鲨",
+		"types": [
+			"dragon",
+			"ground"
+		]
+	},
+	{
+		"id": 466,
+		"name": "电击魔兽",
+		"types": [
+			"electric"
+		]
+	},
+	{
+		"id": 467,
+		"name": "鸭嘴炎兽",
+		"types": [
+			"fire"
+		]
+	},
+	{
+		"id": 531,
+		"name": "差不多娃娃",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 615,
+		"name": "几何雪花",
+		"types": [
+			"ice"
+		]
+	},
+	{
+		"id": 697,
+		"name": "怪颚龙",
+		"types": [
+			"rock",
+			"dragon"
+		]
+	},
+	{
+		"id": 699,
+		"name": "冰雪巨龙",
+		"types": [
+			"rock",
+			"ice"
+		]
+	},
+	{
+		"id": 703,
+		"name": "小碎钻",
+		"types": [
+			"rock",
+			"fairy"
+		]
+	},
+	{
+		"id": 243,
+		"name": "雷公",
+		"types": [
+			"electric"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 244,
+		"name": "炎帝",
+		"types": [
+			"fire"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 245,
+		"name": "水君",
+		"types": [
+			"water"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 249,
+		"name": "洛奇亚",
+		"types": [
+			"psychic",
+			"flying"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 250,
+		"name": "凤王",
+		"types": [
+			"fire",
+			"flying"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 377,
+		"name": "雷吉洛克",
+		"types": [
+			"rock"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 378,
+		"name": "雷吉艾斯",
+		"types": [
+			"ice"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 379,
+		"name": "雷吉斯奇鲁",
+		"types": [
+			"steel"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 380,
+		"name": "拉帝亚斯",
+		"types": [
+			"dragon",
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 381,
+		"name": "拉帝欧斯",
+		"types": [
+			"dragon",
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 382,
+		"name": "盖欧卡",
+		"types": [
+			"water"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 383,
+		"name": "固拉多",
+		"types": [
+			"ground"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 384,
+		"name": "烈空坐",
+		"types": [
+			"dragon",
+			"flying"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 480,
+		"name": "由克希",
+		"types": [
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 481,
+		"name": "艾姆利多",
+		"types": [
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 482,
+		"name": "亚克诺姆",
+		"types": [
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 483,
+		"name": "帝牙卢卡",
+		"types": [
+			"steel",
+			"dragon"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 484,
+		"name": "帕路奇亚",
+		"types": [
+			"water",
+			"dragon"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 485,
+		"name": "席多蓝恩",
+		"types": [
+			"fire",
+			"steel"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 486,
+		"name": "雷吉奇卡斯",
+		"types": [
+			"normal"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 487,
+		"name": "骑拉帝纳",
+		"types": [
+			"ghost",
+			"dragon"
+		],
+		"forms": [
+			{
+				"name": "骑拉帝纳-起源",
+				"types": [
+					"ghost",
+					"dragon"
+				],
+				"spriteSuffix": "起源"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 488,
+		"name": "克雷色利亚",
+		"types": [
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 641,
+		"name": "龙卷云",
+		"types": [
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "龙卷云",
+				"types": [
+					"flying"
+				]
+			},
+			{
+				"name": "龙卷云-灵兽",
+				"types": [
+					"flying"
+				],
+				"spriteSuffix": "灵兽"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 642,
+		"name": "雷电云",
+		"types": [
+			"electric",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "雷电云",
+				"types": [
+					"electric",
+					"flying"
+				]
+			},
+			{
+				"name": "雷电云-灵兽",
+				"types": [
+					"electric",
+					"flying"
+				],
+				"spriteSuffix": "灵兽"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 645,
+		"name": "土地云",
+		"types": [
+			"ground",
+			"flying"
+		],
+		"forms": [
+			{
+				"name": "土地云",
+				"types": [
+					"ground",
+					"flying"
+				]
+			},
+			{
+				"name": "土地云-灵兽",
+				"types": [
+					"ground",
+					"flying"
+				],
+				"spriteSuffix": "灵兽"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 716,
+		"name": "哲尔尼亚斯",
+		"types": [
+			"fairy"
+		],
+		"forms": [
+			{
+				"name": "哲尔尼亚斯",
+				"types": [
+					"fairy"
+				]
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 717,
+		"name": "伊裴尔塔尔",
+		"types": [
+			"dark",
+			"flying"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 718,
+		"name": "基格尔德",
+		"types": [
+			"dragon",
+			"ground"
+		],
+		"forms": [
+			{
+				"name": "基格尔德-完全体",
+				"types": [
+					"dragon",
+					"ground"
+				],
+				"spriteSuffix": "完全体"
+			},
+			{
+				"name": "基格尔德-10%",
+				"types": [
+					"dragon",
+					"ground"
+				],
+				"spriteSuffix": "10"
+			},
+			{
+				"name": "基格尔德-50%",
+				"types": [
+					"dragon",
+					"ground"
+				]
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 785,
+		"name": "卡璞·鸣鸣",
+		"types": [
+			"electric",
+			"fairy"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 786,
+		"name": "卡璞·蝶蝶",
+		"types": [
+			"psychic",
+			"fairy"
+		],
+		"isLegendary": true
+	}, 
+	{
+		"id": 787,
+		"name": "卡璞·哞哞",
+		"types": [
+			"grass",
+			"fairy"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 788,
+		"name": "卡璞·鳍鳍",
+		"types": [
+			"water",
+			"fairy"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 124,
+		"name": "迷唇姐",
+		"types": [
+			"ice",
+			"psychic"
+		]
+	},
+	{
+		"id": 139,
+		"name": "多刺菊石兽",
+		"types": [
+			"rock",
+			"water"
+		]
+	},
+	{
+		"id": 141,
+		"name": "镰刀盔",
+		"types": [
+			"rock",
+			"water"
+		]
+	},
+	{
+		"id": 142,
+		"name": "化石翼龙",
+		"types": [
+			"rock",
+			"flying"
+		]
+	},
+	{
+		"id": 254,
+		"name": "蜥蜴王",
+		"types": [
+			"grass"
+		]
+	},
+	{
+		"id": 257,
+		"name": "火焰鸡",
+		"types": [
+			"fire",
+			"fighting"
+		]
+	},
+	{
+		"id": 260,
+		"name": "巨沼怪",
+		"types": [
+			"water",
+			"ground"
+		]
+	},
+	{
+		"id": 348,
+		"name": "太古盔甲",
+		"types": [
+			"rock",
+			"bug"
+		]
+	},
+	{
+		"id": 373,
+		"name": "暴飞龙",
+		"types": [
+			"dragon",
+			"flying"
+		]
+	},
+	{
+		"id": 442,
+		"name": "花岩怪",
+		"types": [
+			"ghost",
+			"dark"
+		]
+	},
+	{
+		"id": 494,
+		"name": "比克提尼",
+		"types": [
+			"psychic",
+			"fire"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 565,
+		"name": "肋骨海龟",
+		"types": [
+			"water",
+			"rock"
+		]
+	},
+	{
+		"id": 567,
+		"name": "始祖大鸟",
+		"types": [
+			"rock",
+			"flying"
+		]
+	},
+	{
+		"id": 649,
+		"name": "盖诺赛克特",
+		"types": [
+			"bug",
+			"steel"
+		],
+		"forms": [
+			{
+				"name": "盖诺赛克特",
+				"types": [
+					"bug",
+					"steel"
+				]
+			},
+			{
+				"name": "盖诺赛克特-火焰",
+				"types": [
+					"bug",
+					"steel"
+				],
+				"spriteSuffix": "火焰"
+			},
+			{
+				"name": "盖诺赛克特-冰冻",
+				"types": [
+					"bug",
+					"steel"
+				],
+				"spriteSuffix": "冰冻"
+			},
+			{
+				"name": "盖诺赛克特-水流",
+				"types": [
+					"bug",
+					"steel"
+				],
+				"spriteSuffix": "水流"
+			},
+			{
+				"name": "盖诺赛克特-闪电",
+				"types": [
+					"bug",
+					"steel"
+				],
+				"spriteSuffix": "闪电"
+			}
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 719,
+		"name": "蒂安希",
+		"types": [
+			"rock",
+			"fairy"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 721,
+		"name": "波尔凯尼恩",
+		"types": [
+			"fire",
+			"water"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 793,
+		"name": "虚吾伊德",
+		"types": [
+			"rock",
+			"poison"
+		]
+	},
+	{
+		"id": 794,
+		"name": "爆肌蚊",
+		"types": [
+			"bug",
+			"fighting"
+		]
+	},
+	{
+		"id": 795,
+		"name": "费洛美螂",
+		"types": [
+			"bug",
+			"fighting"
+		]
+	},
+	{
+		"id": 796,
+		"name": "电束木",
+		"types": [
+			"electric"
+		]
+	},
+	{
+		"id": 797,
+		"name": "铁火辉夜",
+		"types": [
+			"steel",
+			"flying"
+		]
+	},
+	{
+		"id": 798,
+		"name": "纸御剑",
+		"types": [
+			"grass",
+			"steel"
+		]
+	},
+	{
+		"id": 799,
+		"name": "恶食大王",
+		"types": [
+			"dark",
+			"dragon"
+		]
+	},
+	{
+		"id": 804,
+		"name": "四颚针龙",
+		"types": [
+			"poison",
+			"dragon"
+		]
+	},
+	{
+		"id": 805,
+		"name": "垒磊石",
+		"types": [
+			"rock",
+			"steel"
+		]
+	},
+	{
+		"id": 806,
+		"name": "砰头小丑",
+		"types": [
+			"fire",
+			"ghost"
+		]
+	},
+	{
+		"id": 385,
+		"name": "基拉祈",
+		"types": [
+			"steel",
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 638,
+		"name": "勾帕路翁",
+		"types": [
+			"steel",
+			"fighting"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 639,
+		"name": "代拉基翁",
+		"types": [
+			"rock",
+			"fighting"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 640,
+		"name": "毕力吉翁",
+		"types": [
+			"grass",
+			"fighting"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 643,
+		"name": "莱希拉姆",
+		"types": [
+			"dragon",
+			"fire"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 644,
+		"name": "捷克罗姆",
+		"types": [
+			"dragon",
+			"electric"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 646,
+		"name": "酋雷姆",
+		"types": [
+			"dragon",
+			"ice"
+		],
+		"isLegendary": true,
+		"forms": [
+			{
+				"name": "酋雷姆",
+				"types": [
+					"dragon",
+					"ice"
+				]
+			},
+			{
+				"name": "酋雷姆-焰白",
+				"types": [
+					"dragon",
+					"ice"
+				],
+				"spriteSuffix": "焰白"
+			},
+			{
+				"name": "酋雷姆-暗黑",
+				"types": [
+					"dragon",
+					"ice"
+				],
+				"spriteSuffix": "暗黑"
+			}
+		]
+	},
+	{
+		"id": 647,
+		"name": "凯路迪欧",
+		"types": [
+			"water",
+			"fighting"
+		],
+		"isLegendary": true,
+		"forms": [
+			{
+				"name": "凯路迪欧",
+				"types": [
+					"water",
+					"fighting"
+				]
+			},
+			{
+				"name": "凯路迪欧-觉悟",
+				"types": [
+					"water",
+					"fighting"
+				],
+				"spriteSuffix": "觉悟"
+			}
+		]
+	},
+	{
+		"id": 791,
+		"name": "索尔迦雷欧",
+		"types": [
+			"psychic",
+			"steel"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 792,
+		"name": "露奈雅拉",
+		"types": [
+			"psychic",
+			"ghost"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 800,
+		"name": "奈克洛兹玛",
+		"types": [
+			"psychic"
+		],
+		"isLegendary": true,
+		"forms": [
+			{
+				"name": "奈克洛兹玛",
+				"types": [
+					"psychic"
+				]
+			},
+			{
+				"name": "奈克洛兹玛-黄昏之鬃",
+				"types": [
+					"psychic",
+					"steel"
+				],
+				"spriteSuffix": "黄昏之鬃"
+			},
+			{
+				"name": "奈克洛兹玛-拂晓之翼",
+				"types": [
+					"psychic",
+					"ghost"
+				],
+				"spriteSuffix": "拂晓之翼"
+			}
+		]
+	},
+	{
+		"id": 801,
+		"name": "玛机雅娜",
+		"types": [
+			"steel",
+			"fairy"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 802,
+		"name": "玛夏多",
+		"types": [
+			"fighting",
+			"ghost"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 807,
+		"name": "捷拉奥拉",
+		"types": [
+			"electric"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 809,
+		"name": "美录梅塔",
+		"types": [
+			"steel"
+		],
+		"isLegendary": true,
+		"forms": [
+			{
+				"name": "美录梅塔",
+				"types": [
+				"steel"
+				]
+			},
+			{
+				"name": "美录梅塔-超极巨化",
+				"types": [
+				"steel"
+				],
+				"spriteSuffix": "超极巨化"
+			}
+		]
+	},
+	{
+		"id": 150,
+		"name": "超梦",
+		"types": [
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 151,
+		"name": "梦幻",
+		"types": [
+			"psychic"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 251,
+		"name": "时拉比",
+		"types": [
+			"psychic",
+			"grass"
+		],
+		"isLegendary": true
+	},
+	{
+		"id": 324,
+		"name": "煤炭龟",
+		"types": [
+			"fire"
+		]
+	},
+	{
+		"id": 724,
+		"name": "狙射树枭",
+		"types": [
+			"grass",
+			"ghost"
+		]
+	},
+	{
+		"id": 727,
+		"name": "炽焰咆哮虎",
+		"types": [
+			"fire",
+			"dark"
+		]
+	},
+	{
+		"id": 730,
+		"name": "西狮海壬",
+		"types": [
+			"water",
+			"fairy"
+		]
+	},
+	{
+		"id": 820,
+		"name": "藏饱栗鼠",
+		"types": [
+			"normal"
+		]
+	},
+	{
+		"id": 112,
+		"name": "钻角犀兽",
+		"types": [
+			"ground",
+			"rock"
+		]
+	}
+]

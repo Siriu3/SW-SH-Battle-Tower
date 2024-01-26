@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>随机宝可梦生成器</title>
+	<link rel="stylesheet" type="text/css" href="/style.css">
+
+	<meta name="description" content="本工具按照地区、属性等随机生成宝可梦">
+
+	<link rel="alternate" type="application/rss+xml" title="Random Pok&eacute;mon Generator Feed" href="/rss.xml">
+
+	<link rel="icon" href="/favicon.ico">
+	<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="manifest" href="/manifest.webmanifest">
+</head>
+<body>
+
+<header>
+	<h1>随机宝可梦生成器</h1>
+</header>
+
+<form action="?" method="get" id="controls" class="menu" onsubmit="generateRandom(); return false;">
+	<fieldset>
+		<label>生成 <select name="n" id="n" required>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6" selected>6</option>
+		</select> 只宝可梦</label>
+
+		<select name="region" id="region" required>
+			<option value="galar" title="第八世代（剑/盾）">伽勒尔（对战塔）</option>
+		</select>
+
+		<select name="type" id="type" required>
+			<option value="all">所有属性</option>
+			<option value="bug">虫</option>
+			<option value="dark">恶</option>
+			<option value="dragon">龙</option>
+			<option value="electric">电</option>
+			<option value="fairy">妖精</option>
+			<option value="fighting">格斗</option>
+			<option value="fire">火</option>
+			<option value="flying">飞行</option>
+			<option value="ghost">幽灵</option>
+			<option value="grass">草</option>
+			<option value="ground">地面</option>
+			<option value="ice">冰</option>
+			<option value="normal">一般</option>
+			<option value="poison">毒</option>
+			<option value="psychic">超能</option>
+			<option value="rock">岩石</option>
+			<option value="steel">钢</option>
+			<option value="water">水</option>
+		</select>
+	</fieldset>
+
+	<fieldset>
+		<label><input type="checkbox" id="legendaries" name="legendaries" value="true" checked>传说中的宝可梦</label>
+
+		<label><input type="checkbox" id="nfes" name="nfes" value="true" checked><abbr title="没有进化到顶的宝可梦，某些经常带进化奇石的除外">未完全进化</abbr></label>
+
+		<label><input type="checkbox" id="stadiumRentals" name="stadiumRentals" value="true"><abbr title="Only generate Pok&eacute;mon that can be selected as rentals in Stadium 1 or 2.">Stadium Rentals Only</abbr></label>
+	</fieldset>
+
+	<fieldset>
+		<label><input type="checkbox" id="sprites" name="sprites" value="true" checked>绘图</label>
+		<label><input type="checkbox" id="natures" name="natures" value="true">性格</label>
+		<label><input type="checkbox" id="forms" name="forms" value="true" checked><abbr title="允许超极巨化或地区形态等的宝可梦出现">形态</abbr></label>
+
+		<input value="生成" type="submit" />
+	</fieldset>
+</form>
+
+<nav id="history">
+	<button class="hidden text" id="previous" onclick="displayPrevious()">&#x23EA; 上一次</button>
+	<button class="hidden text" id="next" onclick="displayNext()">下一次 &#x23E9;</button>
+</nav>
+
+<section id="results"></section>
+
+<button id="shiny-toggler" class="text is-hiding" onclick="toggleShinyDisplay()">
+	<span class="star">&starf;</span>
+	<span id="shiny-count">0</span> 异色宝可梦
+	<span class="is-showing">&and;</span><span class="is-hiding">&or;</span>
+</button>
+<section id="shiny-container" class="menu invisible">
+	<div id="shinies"></div>
+	<button class="text" onclick="clearShinies()">&#x274C; 清除异色宝可梦</button>
+</section>
+
+<footer>
+	<p>
+		<a href="/rss.xml">RSS</a> |
+		<a href="https://github.com/nerdydrew/Random-Pokemon-Generator">GitHub</a> |
+		<a href="mailto:drew@drewm.com">Contact</a> |
+		 Pok&eacute;mon is &copy; Nintendo. Website is &copy; <a href="https://drewm.com">Drew Mitchell</a>.
+	</p>
+	<p>
+		Edited by 3irius for SW/SH Battle Tower.
+	</p>
+</footer>
+
+<script src="/random.js"></script>
+
+</body>
+</html>
